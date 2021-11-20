@@ -1,0 +1,48 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#drives('b%21JpAt1jvVjEGjSSRc6HqgTRoFLGsUDwJHgDRfKvH3HZ7uqHu1LlXfQJvCosLPwIdZ')/items('01LKEWP46QQNICIA3T7BAKKJICOE34UEHL')/permissions",
+    "value": [
+      {
+        "grantedTo": {
+          "user": {
+            "displayName": "Security-KNB medewerkers"
+          }
+        },
+        "id": "YzowdC5jfHRlbmFudHwxM2IxYjZjZC1jOGI1LTQ2NWItYjI4ZS1kYWM2YjM2OTViMmM",
+        "inheritedFrom": {},
+        "roles": []
+      },
+      {
+        "grantedTo": {
+          "user": {
+            "displayName": "Security-Personeelszaken"
+          }
+        },
+        "id": "YzowdC5jfHRlbmFudHw3Y2M4Y2Q5ZS0xMmQ3LTQ1NDYtYWI1NC00NzVkNDhiMmU0Zjg",
+        "inheritedFrom": {},
+        "roles": []
+      },
+      {
+        "grantedTo": {
+          "user": {
+            "displayName": "Security-Secretariaat"
+          }
+        },
+        "id": "YzowdC5jfHRlbmFudHxjY2E2ODFkNy0zZmU1LTQ4ZDYtOWQ1YS1iN2ZjM2ZlNDdiYjU",
+        "inheritedFrom": {},
+        "roles": []
+      },
+      {
+        "grantedTo": {
+          "user": {
+            "displayName": "Ydigital api",
+            "email": "ydigitalapi@knborg.onmicrosoft.com",
+            "id": "0ee5137c-4d5f-455b-9335-021d03529ef7"
+          }
+        },
+        "id": "aTowIy5mfG1lbWJlcnNoaXB8eWRpZ2l0YWxhcGlAa25ib3JnLm9ubWljcm9zb2Z0LmNvbQ",
+        "inheritedFrom": {},
+        "roles": []
+      }
+    ]
+  }
+  

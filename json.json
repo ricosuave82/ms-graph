@@ -1,0 +1,110 @@
+{
+  "@odata.context": "",
+  "value": [
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Owners"
+        }
+      },
+      "id": "WS5kaWdpdGFsIE93bmVycw",
+      "inheritedFrom": {},
+      "roles": [
+        "owner"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Visitors"
+        }
+      },
+      "id": "WS5kaWdpdGFsIFZpc2l0b3Jz",
+      "inheritedFrom": {},
+      "roles": [
+        "read"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Members"
+        }
+      },
+      "id": "WS5kaWdpdGFsIE1lbWJlcnM",
+      "inheritedFrom": {},
+      "roles": [
+        "write"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Owners",
+          "email": "Y.digital@ydigital.onmicrosoft.com",
+          "id": "de753f1a-9b0d-47d4-8547-2cefa8f82225"
+        }
+      },
+      "id": "Yzowby5jfGZlZGVyYXRlZGRpcmVjdG9yeWNsYWltcHJvdmlkZXJ8ZGU3NTNmMWEtOWIwZC00N2Q0LTg1NDctMmNlZmE4ZjgyMjI1X28",
+      "inheritedFrom": {},
+      "roles": [
+        "owner"
+      ]
+    }
+  ]
+}
+  "@odata.context": "",
+  "value": [
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Owners"
+        }
+      },
+      "id": "WS5kaWdpdGFsIE93bmVycw",
+      "inheritedFrom": {},
+      "roles": [
+        "owner"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Visitors"
+        }
+      },
+      "id": "WS5kaWdpdGFsIFZpc2l0b3Jz",
+      "inheritedFrom": {},
+      "roles": [
+        "read"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Members"
+        }
+      },
+      "id": "WS5kaWdpdGFsIE1lbWJlcnM",
+      "inheritedFrom": {},
+      "roles": [
+        "write"
+      ]
+    },
+    {
+      "grantedTo": {
+        "user": {
+          "displayName": "Y.digital Owners",
+          "email": "Y.digital@ydigital.onmicrosoft.com",
+          "id": "de753f1a-9b0d-47d4-8547-2cefa8f82225"
+        }
+      },
+      "id": "Yzowby5jfGZlZGVyYXRlZGRpcmVjdG9yeWNsYWltcHJvdmlkZXJ8ZGU3NTNmMWEtOWIwZC00N2Q0LTg1NDctMmNlZmE4ZjgyMjI1X28",
+      "inheritedFrom": {},
+      "roles": [
+        "owner"
+      ]
+    }
+  ]
+}
+ 
